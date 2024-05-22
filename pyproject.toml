@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_hus_utils"
+description = "ComfyUI nodes primarily for seed and filename generation"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/hustille/ComfyUI_hus_utils"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_hus_utils"
+Icon = ""
